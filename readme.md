@@ -1,0 +1,1 @@
+An advanced countdown timer's README details features like user input, visual cues, and control options
